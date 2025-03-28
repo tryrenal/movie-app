@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce528bb6-1d1b-485b-bd1a-cd9449cf405e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/components/SearchBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/MovieCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/useFetch.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742323820791</updated>
       <workItem from="1742323821802" duration="3216000" />
-      <workItem from="1742496146491" duration="15504000" />
+      <workItem from="1742496146491" duration="21292000" />
     </task>
     <servers />
   </component>
