@@ -5,6 +5,7 @@ import ic_react from "@/assets/icons/ic_react.png";
 import ic_saved from '@/assets/icons/ic_saved.png';
 import ic_search from "@/assets/icons/ic_search.png";
 import ic_star from "@/assets/icons/ic_star.png";
+import ic_back from "@/assets/icons/ic_back.png";
 
 
 export const icons = {
@@ -14,5 +15,6 @@ export const icons = {
     ic_react,
     ic_saved,
     ic_search,
-    ic_star
+    ic_star,
+    ic_back
 }
